@@ -13,4 +13,6 @@ https://archive.cloudera.com/postgresql10/redhat8/postgresql10-10.16-1PGDG.rhel8
 https://archive.cloudera.com/postgresql10/redhat8/postgresql10-libs-10.16-1PGDG.rhel8.x86_64.rpm
 https://archive.cloudera.com/postgresql10/redhat8/postgresql10-server-10.16-1PGDG.rhel8.x86_64.rpm
 
-https://git.altlinux.org/tasks/309766/build/200/aarch64/rpms/postgresql10-contrib-10.23-alt0.M90P.1.aarch64.rpm
+
+https://mirror.pnl.gov/postgresql/pgrpm-10/redhat/rhel-8-x86_64/postgresql10-contrib-10.23-1PGDG.rhel8.x86_64.rpm
+https://mirror.pnl.gov/postgresql/pgrpm-10/redhat/rhel-8-x86_64/postgresql10-contrib-10.16-1PGDG.rhel8.x86_64.rpm
