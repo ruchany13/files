@@ -6,3 +6,6 @@ enabled=1
 gpgcheck=1
 gpgkey=https://yum.postgresql.org/keys/PGDG-RPM-GPG-KEY-RHEL
 EOF
+
+
+https://archive.cloudera.com/postgresql10/redhat8/postgresql10-server-10.16-1PGDG.rhel8.x86_64.rpm
