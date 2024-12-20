@@ -16,3 +16,5 @@ https://archive.cloudera.com/postgresql10/redhat8/postgresql10-server-10.16-1PGD
 
 https://mirror.pnl.gov/postgresql/pgrpm-10/redhat/rhel-8-x86_64/postgresql10-contrib-10.23-1PGDG.rhel8.x86_64.rpm
 https://mirror.pnl.gov/postgresql/pgrpm-10/redhat/rhel-8-x86_64/postgresql10-contrib-10.16-1PGDG.rhel8.x86_64.rpm
+
+https://mirror.pnl.gov/postgresql/pgrpm-10/redhat/rhel-8-x86_64/
